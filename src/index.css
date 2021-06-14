@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'ViaodaLibre-Regular' ;
+  src: url('./fonts/ViaodaLibre-Regular.ttf');
+}
+
+* {
+  font-family: 'ViaodaLibre-Regular', monospace;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: aliceblue;
+  background: linear-gradient(to right, rgb(58, 54, 37), rgb(126, 72, 2));
+}
+
+
+
